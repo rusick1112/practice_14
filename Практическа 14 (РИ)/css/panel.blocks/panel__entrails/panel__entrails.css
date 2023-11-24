@@ -1,0 +1,8 @@
+.panel__entrails {
+    width: 130px;
+    position: fixed;
+    z-index: 1;
+    background: #ff6b;
+    text-align: right;
+    float: right;
+}
